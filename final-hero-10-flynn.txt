@@ -1,0 +1,115 @@
+Flynn Armstrong, Storm Paragon (PL 10 / 150)
+
+Description
+	Age 18
+	Height 6'1"
+	Weight 220lbs
+	Athletic, fit, and muscular
+
+Background
+	A Kin of Rage that was born of a human woman on earth.
+	Killed his brother a when
+
+Power Source
+	The Immortal Kith
+
+Motivations
+	Struggling with Guilt
+	Responsibility to Earth and The Humans
+
+Complications
+	Very stupid
+
+Totals
+	Abilities 		 20
+	Defenses 			 24
+	Skills 				 14
+	Advantages 		 18
+	Powers 				 74
+	Base 					 0
+	Total 				 150/150/0
+
+Abilities [20]
+	STR 	4
+	STA 	4
+	AGL   4
+	DEX 	0
+	FGT   4
+	INT 	-2
+	AWA 	-2
+	PRE 	-2
+
+Defenses [24]
+	Dodge 	10 + 4 + 6 = 20
+	Parry 	10 + 4 + 6 = 20
+	Tough 	+0 + 10 + 0 = +10
+	Will 		+0 - 2 + 12 = +10
+	Fort		+0 + 10 + 0 = +10
+ 
+Skills [14]
+	Close Combat 	4 + 6 (3) = +10
+	Athletics 		10 + 4 (2) = +14
+	Perception 		-2 + 8 (4) = +6
+	Stealth 			4 + 4 (2) = +8
+	Acrobatics 		4 + 6 (3) = +10
+
+Advantages [19]
+	Move By Action 1
+	Power Attack 1
+	Accurate Attack 1
+	Defensive Attack 1
+	All-out Attack 1
+	Improved Grab 1
+	Fast Grab 1
+	Improved Hold 1
+	Improved Defense 1
+	Enhanced Initiative 2
+	Interpose 2
+	Takedown 2
+	Fearless 1
+	Diehard 1
+	
+Powers [74]
+	Enhanced Strength 6 (12)
+	Enhanced Stamina 6 (12)
+	Flight 10 (20)
+	Immortality 5 (10)
+		Reanimates after 1 day of death
+		Being killed by a Kith/Kin or a Weapon made by them will prevent reanimation
+		If he does anything that hurts humans, his Immortality is suspended by 1 day
+		Good luck killing him in either case, thouh.
+	Impervious Stamina 10 (10)
+		Immune to Damage 5 or less
+	Electric Damage into Strength 10
+		Hit with electrical damage, gain +5 Strength
+
+Combat Stats
+	Initiative: +8
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+		Fly: 4 Miles (2000mph)
+		Free move to intercept attack aimed at another character
+	Defenses
+		Dodge: +10 (20)
+		Parry: +10 (20)
+		Tough: +10 (Immune to damage DC 20 and lower)
+		Will:  +10 (20) (Immune to Fear effects)
+		Fort:  +10
+		Double duration for suffocation, hunger, thirst
+		Half effect from All Environmental, Disease, Poison
+		Automatically Stabilize when Dying
+		If dead, automatically reanimate after 1 day, unless killed by a Kith Weapon
+	Attacks
+		Unarmed
+		+10 vs Parry (Crit 19-20)
+		Damage DC 25
+			All-out (-1..2 Defense for +1..2 Damage)
+			Defensive (-1..2 Damage for +1..2 Defenses)
+			Power (-1..2 Accuracy for +1..2 Damage)
+			Accurate (-1..2 Damage for +1..2 Accuracy)
+			Fast Grab (Free grab check on hit)
+			Improved Grab (Grab with one hand)
+			Improved Hold (-5 Penalty to escape)
+			Defeat Minion, move make free attack, repeat

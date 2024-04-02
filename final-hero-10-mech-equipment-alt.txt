@@ -1,0 +1,190 @@
+The Biomech Advanced Systems Selection (13/20)
+
+	1. Force Sword (10)
+		Strength Based Energy Damage 2
+		Affects Incorporeal 2
+		Takedown 2
+		Accurate Attack 1
+		Power Attack 1
+		Defensive Attack 1
+		All-out Attack 1
+		Stats
+			+8 VS Parry
+				-1..5 for +1..5 Damage
+				+1..5 for -1..5 Damage
+				-1..5 for +1..5 Defenses
+				+1..5 for -1..5 Defenses
+			Damage Rank 12 (DC 27)
+
+	2. Railgun (30)
+		Ranged 12
+		Bullet Damage 12
+		All-out Attack 1
+		Extended Range 4
+		Improved Crit 1
+		Stats
+			Range Bands: 4800/9600/19,200 feet
+			+8 VS Dodge
+			Damage Rank 12 (DC 27)
+				+1..5 for -1..5 Defenses
+
+	3. Guided Missile System (35)
+		Ranged 10
+		Explosive Damage 10
+		Area: Burst 10
+		Indirect 3
+		Extended Range 2
+			Dodge DC 20 (success = take half effect)
+			Damage DC 25
+			Can attack can come from above in any direction
+			Range Bands 1000/2000/4000
+
+	4. Plasma Rifle (20)
+		Ranged 10
+		Energy Damage 10
+
+	5. Wall Breaker
+		Grab Based Damage 
+
+	6. Assault Armor (10)
+		Enhanced Speed 2
+		Enhanced Leaping 2
+		Protection 2
+		Evasion 2
+		Uncanny Dodge 1
+		Improved Initiative 1
+
+	7. Ethereal Wings (10)
+		Winged Flight 9
+		Evasion 1
+
+	8. Comms Node (5)
+		Enhanced Radio Comms 1
+		Subtle 1
+
+	9. Multi-Spectrum Tracker (5)
+		Counters Concealment 5
+		Ignores all forms of visual concealment
+
+	10. Tactical Uplink (5)
+		Leadership 1
+		Teamwork 1
+		Inspire 3
+
+	11. Stealth Field (15)
+		Visual Concealment 4 (8)
+			Invisible to all visual senses
+		Affects Others 4
+			Can affect others
+		Area 4
+			Can affect anyone within 30 feet
+		Selective 4
+			Only affects those you choose
+		Passive  -4
+			Attack action causes it to stop working
+		Increased Action -8
+			Spend a standard action to engage stealth
+		Enhanced Stealth 7
+
+	12. Enhanced Sensors (5)
+		Darkvision 2
+		Analytic Vision 1
+		Enhanced Perception 2
+
+	13. Core Overdriver (5)
+		Regeneration 10
+		Side Effect -5
+			DC 15 Affliction auto hit on the pilot when leaving the BioMech
+			Effect lasts for 12 hours
+			Impaired -> Exhausted -> Incapacitated
+
+	14. Combat Shield (7/10)
+		Deflect 10
+		Reduced Range -10
+			Reduced to Close (15 Feet)
+		Reach 1
+		Evasion 1
+
+	15. Mobility Rig (10)
+		Swim 5
+		Safe Fall 2
+		Sure-footed 1
+		Enhanced Athletics 1
+		Enhanced Acrobatics 1
+
+	16. Lightning Cannon (30)
+		Ranged 10
+		Lightning Damage 10
+		Affliction 10
+		Limited Degree -10
+		Extra Condition 10
+			Dazed/Vulnerable -> Stunned/Defenseless
+
+	17. Power Claw (10)
+		Strength Based Damage 0
+		Enhanced Strength Limited to Grip 5
+		Fast Grab 1
+		Improved Hold 1
+		Improved Grab 1
+		Improved Smash 1
+		Weapon Break 1
+
+	18. Flamethrower (25)
+		Area 8
+		Fire Damage 8
+		Ignore Ranged Concealment 1
+		Secondary Effect: Fire Damage 8
+
+	19. Cryo Hammer (15)
+		Strength Based Damage 2
+		Affliction 10
+		Extra Effect 10
+		Limited Degree -10
+			Hindered/Impaired: Physical Actions -> Immobilized/Disabled: Physical Actions
+
+	20. BFG (35)
+		Damage 15
+		Ranged 15
+		Improved Crit 5
+		All-out Attack 1
+		Quirk: Must always make -5/+5 All-out attacks 0
+		Setup: Move Action -1
+		Stats
+			+5 vs Dodge
+			Damage DC 20 (35)
+			-5 Defenses each attack
+
+	Preset Loadouts
+		Paladin
+			Force Sword 10
+			Combat Shield 10
+			Ethereal Wings 10
+			Reinforeced Armor 10
+			Assault Armor
+
+		Recon
+			Stealth Field (15)
+			Mobility Rig (10)
+			Scout Drone (10)
+			Enhanced Sensors (5)
+			Comms Node (5)
+			Multi-Spectrum Tracker (5)
+
+		Artillery
+			Guided Missile (35)
+			Comms Node (5)
+
+		Sniper
+			Railgun (30)
+			En
+
+		Soldier
+			Plasma Rifle or Lightning Cannon (30)
+			Power Claw and Mobility Rig (20)
+			OR Cryo Hammer and Enhanced Sensors (20)
+
+
+		The Boss Slayer
+			BFG 35
+
+			Core Overdriver 5

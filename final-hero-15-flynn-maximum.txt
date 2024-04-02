@@ -1,0 +1,118 @@
+Flynn Armstrong, Storm God Paragon, The Kith of Power (PL 15 / 225)
+
+Description
+	Age 24
+	Height 6'8"
+	Weight 220lbs
+	Athletic, fit, and muscular
+
+Background
+	A Kith of Power that was born of a human woman on earth.
+	Killed his brother as a child
+	Uneducated, unaware, and incompetent.
+
+Power Source
+	The Immortal Kith
+
+Motivations
+	Struggling with Guilt
+	Responsibility to Earth and The Humans
+
+Complications
+	Not Very Smart
+
+Totals
+	Abilities 		 28
+	Defenses 			 37
+	Skills 				 24
+	Advantages 		 21
+	Powers 				110
+	Total 				220/225/5
+
+Abilities [28]
+	STR 	5
+	STA 	5
+	AGL   5
+	DEX 	0
+	FGT   5
+	INT 	-2
+	AWA 	-2
+	PRE 	-2
+
+Defenses [37]
+	Dodge 	10 + 5 + 10 = 25 (+15)
+	Parry 	10 + 5 + 10 = 25 (+15)
+	Tough 	+0 + 15 + 0 = +15
+	Will 		+0 - 2 + 17 = +15
+	Fort		+0 + 15 + 0 = +15
+ 
+Skills [24]
+	Close Combat 	 5 + 10 (5) = +15
+	Athletics 		15 + 2 (1) = +17
+	Perception 		-2 + 10 (5) = +8
+	Insight 			-2 + 10 (5) = +8
+	Acrobatics 		 5 + 2 (1) = +7
+	Intimidate 		-2 + 14 (7) = +12
+	
+Advantages [21]
+	Move By Action 1
+	Power Attack 1
+	Accurate Attack 1
+	Defensive Attack 1
+	All-out Attack 1
+	Fast Grab 1
+	Improved Grab 1
+	Improved Hold 1
+	Improved Defense 1
+	Improved Trip 1
+	Improved Smash 1
+	Improved Critical 1
+	Enhanced Initiative 2
+	Interpose 2
+	Takedown 2
+	Ultimate Effort 1
+	Fearless 1
+	Evasion 1
+	
+Powers [110]
+	Enhanced Strength 10 (20)
+	Enhanced Stamina 10 (20)
+	Flight 15 (20)
+	Immortality 15 (30)
+		Recover from Death after every round
+		Being killed by a Kith Weapon will prevent reanimation
+		Harming a human will casue him to lose his Immortality for 24 hours
+	Weather Control 10 (20)
+		Control weather in a 4 mile radius
+		Impede Movement 2
+		Keywords: Rain, Wind
+	Immunity Lightning 5 (5)
+
+Combat Stats
+	Initiative: +13
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+		Fly: 120 Miles (64,000 mph)
+		Free move to intercept attack aimed at another character
+	Defenses
+		Dodge: +15 (+2 vs Area attacks)
+		Parry: +15
+		Tough: +15
+		Will:  +15 (Immune to Fear effects)
+		Fort:  +15
+		If dead, automatically reanimate after every round, unless killed by a Kith or Kin Weapon
+	Attacks
+		Unarmed
+			+15 vs Parry (Crit 19-20)
+			Damage DC 30
+		Modifiers
+			All-out (-2/-5 Defense for +2/+5 Damage)
+			Defensive (-2/-5 Damage for +2/+5 Defenses)
+			Power (-2/-5 Accuracy for +2/+5 Damage)
+			Accurate (-2/-5 Damage for +2/+5 Accuracy)
+			Fast Grab (Free grab check on hit)
+			Improved Grab (Grab with one hand)
+			Improved Hold (-5 Penalty to escape)
+			Defeat Minion, move, make free attack, repeat as necessary

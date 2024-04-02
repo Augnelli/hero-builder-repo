@@ -1,0 +1,128 @@
+Atlas Guardian (PL 10 / 150)
+
+Description
+	Age 33
+	Height 6'1"
+	Weight 190lbs
+	Athletic and very muscular build
+	Short black hair
+	Bright blue eyes
+	Wears hero uniform with various sponsors logos listed on his back
+		4 logos arrayed around the Earth logo on his back
+		Initech Inc.
+		American Vehicle Association
+		Navidia Systems
+		Capital Now Banking
+
+Background
+	Family
+
+Power Source
+	Heroic Energy
+		While doing good things, he is strong
+		While doing bad things, he is weak
+	
+Motivations
+	Protect Earth
+
+Complications
+	Self vs Community
+		What are you willing to sacrifice for the safety of the rest of humanity, even the worst of them?
+		What are you willing to lose for the safety of everyone?
+		What have you lost 
+
+Totals
+	Abilities 		 36
+	Defenses 			 22
+	Skills 				 28
+	Advantages 		 20
+	Powers 				 44
+	Base 					 0
+	Total 				149/150/1
+
+Abilities [36]
+	STR 	4 (10)
+	STA 	4 (10)
+	AGL   2
+	DEX 	2
+	FGT   2
+	INT 	0
+	AWA 	2
+	PRE 	2
+
+Defenses [22]
+	Dodge 	10 +  2 + 6 = 18 (+8)
+	Parry 	10 +  2 + 6 = 18 (+8)
+	Tough 	+0 + 10 + 2 = +12
+	Will 		+0 +  2 + 8 = +10
+	Fort		+0 + 10 + 0 = +10
+ 
+Skills [28]
+	Athletics 	 10 + 4 (2) = +14
+	Close Combat
+		Unarmed 		2 + 8 (4) = +10
+	Insight 			2 + 8 (4) = +10
+	Perception 		2 + 8 (4) = +10
+	Acrobatics 		2 + 6 (3) = +8
+	Deception 		2 + 6 (3) = +8
+	Investigate 	0 + 8 (4) = +8
+	Persuasion 		2 + 6 (3) = +8
+
+Advantages [20]
+	Move By Action 1
+	Power Attack 1
+	Accurate Attack 1
+	Defensive Attack 1
+	All-out Attack 1
+	Improved Crit 1
+	Improved Grab 1
+	Fast Grab 1
+	Improved Hold 1
+	Improved Defense 1
+	Enhanced Initiative 2
+	Improved Trip 1
+	Improved Smash 1
+	Interpose 1
+	Takedown 2
+	Fearless 1
+	Diehard 1
+	Benefit: Wealth 1
+	
+Powers [44]
+	Enhanced Strength 6 (12)
+	Enhanced Stamina 6 (12)
+	Flight 10 (20)
+
+Combat Stats
+	Initiative: +8
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+		Free move to intercept attack aimed at another character
+	Defenses
+		Dodge: +8 (18) (+5 vs Area)
+		Parry: +8 (18)
+		Tough: +12 (Immune to damage DC 20 and lower)
+		Will:  +10 (20) (Immune to Fear effects)
+		Fort:  +10
+		Automatically Stabilize when Dying
+	Attacks
+		Unarmed
+			+10 vs Parry
+			Damage DC 25
+		Ranged
+			+10 vs Dodge
+			Damage DC 25
+		Modifiers
+			Crit 19-20 on melee unarmed attacks
+			All-out (-5 Defense for +5 Damage)
+			Defensive (-5 Damage for +5 Defenses)
+			Power (-5 Accuracy for +5 Damage)
+			Accurate (-5 Damage for +5 Accuracy)
+			Fast Grab (Free grab check on hit)
+			Improved Grab (Grab with one hand)
+			Improved Hold (-5 Penalty to escape)
+			Defeat Minion, move make free attack, repeat
+
+

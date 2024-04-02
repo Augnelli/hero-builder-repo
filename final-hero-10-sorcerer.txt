@@ -1,0 +1,159 @@
+Mage, Sorcerer(PL 10 / 150)
+
+
+
+Description
+		Gender: Male
+		Pronouns: He/Him
+		Age: 36
+		Height: 5'8"
+		Weight: 160 lbs
+		Build: Bookish, average
+		Hair: Black, medium length, straight
+		Ethnicity: Asian American
+		Clothes: Robes, a fitted suit, or athletic clothes
+
+Background
+	
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 40
+	Defenses 			 23
+	Skills 				 25
+	Advantages 		 22
+	Powers 				 40
+	Total 				 150/150/0
+
+Abilities [40]
+	STR 	0
+	STA 	0
+	AGL 	0
+	DEX 	2
+	FGT 	0
+	INT 	10
+	AWA 	5
+	PRE 	3
+
+Defenses [23]
+	Dodge 	10 + 0 + 5 = 15 (+5 Robes = 20/+10)
+	Parry 	10 + 0 + 5 = 15 (+5 Robes = 20/+10)
+	Tough 	+0 + 0 + 1 = +1 (+3 Robes) [+6 Protection Spell] ([+10 Both])
+	Will 		+0 + 5 + 7 = +12
+	Endure 	+0 + 0 + 5 = +5
+
+Skills [25]
+	Deception			3 + 6 (3) = +9
+	Expertise
+		Magic  			10 + 8 (4) = +18
+		Dimensions 	10 + 6 (3) = +16
+	Insight 			5 + 4 (3) = +11
+	Investigate 	10 + 4 (2) = +14
+	Perception 		5 + 6 (3) = +11
+	Persuasion 		3 + 6 (3) = +9
+	Ranged Combat
+		Magic 			2 + 8 (4) = +10
+
+Advantages [22]
+	Benefits 4
+		Wealth [3]
+		Member of the Fey Court [1]
+	Equipment 5
+		Arcane Components 5
+			Tools, equipment, and resources needed to perform arcane rituals
+		Robes of The Occult 20
+			Feature: Arcane Attunement 1
+				You must attune to this robe in order to benefit from these robes
+			Immunity: Your Own Powers 1
+			Magic Flight 5
+			Protection 3
+			Enhanced Dodge 5
+			Enhanced Parry 5
+	Move-by-action 1
+	Connected 1
+	Ritual 1
+	Artificer 1
+	Assessment: Arcane Foes 1
+	Trance 1
+	Eidetic Memory 1
+	Base 6
+
+Powers [40]
+	Spells
+		1 Attack (31 + 9)
+			Ranged 10
+			Variable Magic Damage 10
+			Indirect 4
+			Affects Insubstantial 2
+			Variable Descriptor: Magical 2
+			Extended Range 2
+			Precise 1
+		2 
+		3 
+		4 Conjure Object (30 -> 1)
+			Create 10 (20)
+			Proportional -10
+			Movable 10
+			Sustained 0
+		5 Conjur Shield (30 -> 1)
+			Reaction 18
+			Protection 6
+			Affects Others 6
+				As a reaction, you or a target within 30 feet gain +6 Toughness for the triggering attack
+		6 Communication Rune (26 -> 1)
+				Increased Action -2
+					Costs 1 Standard Action to communicate
+				Unreliable (numerical) -4
+					Must have a Rune of Communication on your person
+					Only 5 can be created at a time
+				Persistent 4
+					Enchantment exists for 7 days
+				Dimensional 4
+					Can connect with anyone who has a Rune of Communication as long as they are on Earth or the Realms of the Earth Nexus
+				Area 4
+				Selective 4
+				Mental Communication 4 (16)
+		7 Warp Tunnel (25 -> 1)
+			Teleport 5 (10)
+			Portal 5 (10)
+			Extended 5
+		8 Convalesce (22 -> 1)
+			Healing 10
+			Stabilize 1
+			Persistent 1
+		9 Counterspell (30 -> 1)
+			Alternate Resistance: Magic Effect 0
+			Ranged 10
+			Effortless 10
+			Nullify: Arcane 10
+		10 Arcane Senses (16 -> 1)
+			Sustained 4
+			Postcognitive 4
+			Visual Detect Arcane 4
+			Hearing Detect Arcane 4
+
+Base [6] {25/30}
+	Sprawling Mansion + Grounds (15)
+		Massive Space 3
+		Personnel 1
+		Fire Prevention System 1
+		Garage 1
+		Large Library 2
+		Teleport Lock 1
+		Arcane Communications 1
+		Arcane Dimenional Portal 1
+		Power System 1
+		Infirmary 1
+		Security System 1
+		Large Grounds 1
+			Garden
+			Tower and Fields
+		Large Living Space 2
+			Room for 50 people
+		Tough 8
+		Movable 8

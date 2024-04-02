@@ -1,0 +1,131 @@
+Warrior, Super Soldier Hero (PL 8 / 120)
+
+Description
+	Gender: Male
+	Age: 24
+	Height: 6'1"
+	Weight: 180
+	Build: Muscular Athletic
+	Hair: Dark blonde, long, messy
+	Skin: Tanned, white
+	Pronouns: He/Him
+	Style: Militaristic, utilitarian, combat ready
+		Casual: Athletic pants, t-shirt, hoodie sweater, athletic shoes
+		Fancy: Military 
+		Hero: Combat Suit (See equipment)
+
+Background
+
+Power Source
+	Super Human generation nation
+
+Motivations
+	
+
+Complications
+
+Totals
+	Abilities 		 32
+	Defenses 			 28
+	Skills 				 18
+	Advantages 		 31
+	Powers 				 11
+	Total 				 120/120/0
+
+Abilities [32]
+	STR 	3
+	STA 	3
+	AGL 	3
+	DEX 	3
+	FGT 	3
+	INT 	0
+	AWA 	3
+	PRE 	-2
+
+Defenses [28]
+	Dodge 	10 + 3 + 8 = 21
+	Parry 	10 + 3 + 8 = 21
+	Tough 	+0 + 3 + 2 = +5
+	Will 		+0 + 3 + 5 = +8
+	Fort		+0 + 3 + 5 = +8
+
+Skills [18]
+	Acrobatics 	3 + 6 (3) = +9
+	Athletics 	3 + 6 (3) = +9
+	Insight 		3 + 6 (3) = +9
+	Perception 	3 + 6 (3) = +9
+	Stealth 		3 + 6 (3) = +9
+	SlightHand 	3 + 6 (3) = +9
+
+Advantages [31]
+	Move-By Action 0
+	Close Attack 5
+	Ranged Attack 5
+	Evasion 2
+	Uncanny Dodge 1
+	Accurate Attack 1
+	All-out Attack 1
+	Defensive Attack 1
+	Power Attack 1
+	Improved Disarm 1
+	Instant Up 1
+	Improved Aim 1
+	Improved Defense 1
+	Fearless 1
+	Diehard 1
+	Takedown 1
+	Improved Critical 1
+	Improved Initiative 1
+	Equipment 5 {25/25}
+		Stealth Armor {4}
+			Low Light Vision 1
+			Radio Sense 1
+			Immunity: Suffocation 2
+		Oversized Recurve Bow {16}
+			Ranged Piercing Damage 8
+		Combat Blade {5}
+			Strength Based Slashing Damage 5
+	
+Powers [11]
+	Speed 2
+	Leaping 2
+	Swimming 2
+	Regeneration 5
+
+Combat Stats
+	Super Soldier
+		Initiative: +7
+		Movement
+			Walk: 120 Feet (standing up is free action)
+			Swim: 15 Feet
+			Jump: 30 Feet
+		Movement Modifiers
+			0 Movement to stand up
+		Defenses
+			Dodge: 23 (+5 Defense Action) (+2 vs Area)
+			Parry: 23 (+5 Defense Action)
+			Tough: +3
+			Will:  +8 (Immune to fear effects)
+			Fort:  +8
+		Defense Modifiers
+			+2 to Dodge vs Area effects
+			+5 Dodge and Parry while taking Defense Action
+
+		Attacks
+			Unarmed
+				+8 vs Parry
+				Damage DC 18
+			Blade
+				+8 vs Parry
+				Damage DC 23
+			Bow
+				+8 vs Dodge
+				Damage DC 23
+		Attack Modifiers
+			No Accuracy penalty while prone
+			Crit on 19-20
+			Aim action grants +5 instead of +2
+			Accurate: -5 to Damage for +5 to Accuracy
+			All-out: -5 to Defenses for +5 to Damage
+			Defensive: -5 to Damage for +5 to Defenses
+			Power: -5 to Accuracy for +5 to Damage

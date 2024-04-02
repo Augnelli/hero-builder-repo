@@ -1,0 +1,138 @@
+Street Sweeper, Gadget Hero (PL 10 / 150)
+
+Description
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 40
+	Defenses 			 20
+	Skills 				 38
+	Advantages 		 52
+	Powers 				 0
+	Total 				 150/150/0
+
+Abilities [40]
+	STR 	2
+	STA 	2
+	AGL   2
+	DEX 	2
+	FGT   2
+	INT 	6
+	AWA 	4
+	PRE 	0
+
+Defenses [20]
+	Dodge 	10 + 2 + 4 = 16
+	Parry 	10 + 2 + 4 = 16
+	Tough 	+0 + 2 + 2 = +4
+	Will 		+0 + 2 + 8 = +10
+	Fort		+0 + 2 + 2 = +4
+
+Skills [38]
+	Investigate 	6 + 4 (2) = +10
+	Expertise
+		Laws 				6 + 4 (2) = +10
+		Engineer 		6 + 4 (2) = +10
+	Stealth 			2 + 8 (4) = +10
+	Athletics 		2 + 8 (4) = +10
+	Acrobatics 		2 + 8 (4) = +10
+	Insight 			4 + 6 (3) = +10
+	Drive 				2 + 8 (4) = +10
+	Medicine 			6 + 4 (2) = +10
+	Perception 		4 + 6 (3) = +10
+	Insight 			4 + 6 (3) = +10
+	Deception 		0 + 10 (5) = +10
+
+Advantages [52]
+	Move By Action 0
+	Accurate Attack 1
+	All-out Attack 1
+	Defensive Attack 1
+	Power Attack 1
+	Inventor 1
+	Instant Up 1
+	Close Combat 8
+	Ranged Combat 8
+	Equipment 30
+		Totals: 110/150/40
+		Crime Fighting Armor [34]
+			Protection 5
+			Enhanced Dodge 3
+			Enhanced Parry 3
+			Enhanced Strength 4 (8)
+			Darkvision 2
+			Analytic Vision 2
+			Infravision 1
+			Time Sense 1
+			Distance Sense 1
+			Direction Sense 1
+			Radio Sense 1
+			Safe Fall 2
+			Leaping 2
+			Speed 2
+		Tracking Daggers ([15]
+			Accurate 2
+			Marking 1
+				Location, distance, speed, and other data shows up on HUD display
+			Ranged 4
+			Damage 4
+			Multi-attack 4
+		Stun Batton [11]
+			Strength Based Damage 1
+			Affliction 10
+		Katana [10]
+			Strength Based Damage 4
+			Takedown 2
+			Improved Trip 1
+			Improved Crit 1
+			Improved Defense 1
+			Weapon Bind 1
+		Advanced Motorcycle [15]
+			Size: Medium Vehicle
+			Strength: 2
+			Speed: 7
+			Defense: 10
+			Toughness: 10
+		Mobile Bunker [40]
+			Size: Medium Installation
+			Toughness: 12 (+6)
+			Cost: 0
+			Features
+				Communications 1
+				Computer 1
+				Habitat 1
+				Infirmary 1
+				Fire Prevention System 1
+				Power Systems 1
+				Sealed 1
+				Garage 1
+				Security System 2
+				Movable
+					Fly 5 (10)
+				Defense Systems 
+					Impervious Toughness 10
+	
+Powers [0]
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+	Defenses
+		Dodge: 10
+		Parry: 10
+		Tough: +0
+		Will:  +0
+		Fort:  +0
+	Attacks
+		Unarmed
+		+0 vs Parry
+		Damage DC 15

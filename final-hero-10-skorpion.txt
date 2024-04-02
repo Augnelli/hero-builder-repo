@@ -1,0 +1,122 @@
+
+Skorpion, Mortal Kombatant (PL 10 / 150)
+
+Description
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 60
+	Defenses 			 20
+	Skills 				 15
+	Advantages 		 20
+	Powers 				 33
+	Total 				 148/150/2
+
+Ability Scores[60]
+	STR 	6
+	STA 	6
+	AGL   6
+	DEX 	0
+	FGT   10
+	INT 	0
+	AWA 	2
+	PRE 	0
+
+Defenses [20]
+	Dodge 	10 + 6 + 6 = 22
+	Parry 	10 + 10 + 2 = 22
+	Tough 	+0 + 6 + 0 = +6 (+2)
+	Will 		+0 + 2 + 8 = +10
+	Fort		+0 + 6 + 4 = +10
+
+Skills [15]
+	Athletics 		6 + 4 (2) = +10
+	Acrobatics 		6 + 4 (2) = +10
+	Stealth 			6 + 4 (2) = +10
+	Perception 		2 + 6 (3) = +8
+	Insight 			2 + 6 (3) = +8
+	Persuasion 		0 + 6 (3) = +6
+
+Advantages [20]
+	Move By Action 0
+	Power Attack 1
+	All-out Attack 1
+	Defensive Attack 1
+	Accurate Attack 1
+	Improved Crit: Melee 1
+	Improved Initiative 1
+	Improved Smash 1
+	Improved Defense 1
+	Improved Trip 1
+	Instant Up 1
+	Diehard 1
+	Fearless 1
+	Takedown 1
+	Weapon Bind 1
+	Evasion 2
+	Close Attack 2
+	Defensive Roll 2
+	
+Powers [33]
+	Leaping 2
+	Speed 2
+	Lowlight Vision 1
+	Regeneration 10
+	Safe Fall 2 (4)
+	Martial Mastery 10+4 (14)
+		Skull Breaking Kick (10)
+			Strength Based Damage 2
+			Extra Effect 8
+			Limited Degree -8
+			Affliction 8
+				Rank 1: Dazed/Hindered
+				Rank 2: Stunned/Prone
+			Checks
+				+12 vs Parry
+				Damage DC 23
+				Affliction DC 18
+		Serpents Fangs (10 -> 1)
+			Reach 5
+			Variable Descriptor 1
+			Strength Based Piercing/Fire Damage 4
+			Checks 
+				+10 vs Parry
+				Damage Rank 25
+		Repeated Strikes (8 -> 1)
+			Accurate 1
+			Variable Descriptor 1
+			Strength Based Bludgeoning/Fire Damage 0
+			Multi-Attack 6
+			Checks 
+				+14 vs Parry
+				Damage Rank 21
+		Crushing Kick (10 -> 1) 
+			Area 8
+			Strength Based Fire Damage 2
+			Checks
+				DC 18 Dodge
+				Damage Rank 23
+		Soul Strike (6 -> 1)
+			Incurable 1
+			Insidious 1
+			Affects Incorporeal 2
+			Strength Based Damage 2
+			Checks 
+				+12 vs Parry
+				Damage Rank 23
+
+Combat Stats
+	Walk: 120 Feet (8 mph)
+	Swim: 6 Feet
+	Jump: 30 Feet
+	Init: +10
+	Immune to Fall Damage and Fear effects
+	Heal 1 Injury each turn
+	+17 vs Area effects
