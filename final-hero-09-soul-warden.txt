@@ -1,0 +1,99 @@
+Soul Warden, Energy Manipulator Type (PL 9 / 135)
+
+Description
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 30
+	Defenses 			 27
+	Skills 				 18
+	Advantages 		 14
+	Powers 				 43
+	Total 				132/135/3
+
+Abilities [30]
+	STR 	0
+	STA 	2
+	AGL   0
+	DEX 	0
+	FGT   0
+	INT 	2
+	AWA 	6
+	PRE 	5
+
+Defenses [27]
+	Dodge 	10 + 0 + 6 = 16 (+6)
+	Parry 	10 + 0 + 6 = 16 (+6)
+	Tough 	+0 + 2 + 5 = +7
+	Will 		+0 + 6 + 7 = +13
+	Fort		+0 + 2 + 3 = +5
+
+Skills [18]
+	Deception					5 + 4 (2) = +9
+	Insight 					6 + 4 (2) = +10
+	Perception 				6 + 4 (2) = +10
+	Investigate 			2 + 8 (4) = +9
+	Persuasion 				5 + 4 (2) = +9
+	Expertise
+		Magic 		 			6 + 3 (1.5) = +9
+	Ranged
+		Spirits 				0 + 9 (4.5) = +9
+
+Advantages [14]
+	Move By Action 0
+	Contacts 1
+	Connected 1
+	Well Informed 1
+	Ritualist 1
+	Assessment 1
+	Leadership 2
+	Setup 1
+	Teamwork 1
+	Daze 1
+	Fascinate 1
+	Taunt 1
+	Startle 1
+	Benefit: Wealth 1
+	
+Powers [43]
+	Comprehend Spirits 2 (4)
+	Comprehend Languages 2 (4)
+	See and Hear Incorporeal 4 (4)
+	Spirit Commands 29 + 2 (27)
+		Spirit Assault (29)
+			Affects Corporeal 2
+			Alternate Resist Will 9
+			Ranged 9
+			Damage 9
+		Spirit Guardian (22 -> 1)
+			Affects Corporeal 2
+			Reaction 15
+			Protection 5
+		Spirit Infestation (20 -> 1)
+			Affects Corporeal 2
+			Ranged 9
+			Affliction 9
+			Dazed -> Compelled -> Controlled
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+	Defenses
+		Dodge: 10
+		Parry: 10
+		Tough: +0
+		Will:  +0
+		Fort:  +0
+	Attacks
+		Unarmed
+		+0 vs Parry
+		Damage DC 15

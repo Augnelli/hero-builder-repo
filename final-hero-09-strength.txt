@@ -1,0 +1,99 @@
+Muscles McGee, Powerhouse (PL 9 / 135)
+
+Description
+	Gender: Male
+	Age: 23
+	Height: 6'3"
+	Weight: 250
+	Build: Rediculously Muscular
+	Hair: Black, curly, short cropped
+	Skin: Olive, hispanic
+	Pronouns: He/Him
+	Style: Casual, athletic, not fancy
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 52
+	Defenses 			 15
+	Skills 				 20
+	Advantages 		  9
+	Powers 				 37
+	Total 				 133/135/2
+
+Abilities [52]
+	STR 	9
+	STA 	9
+	AGL   5
+	DEX 	0
+	FGT   5
+	INT  -2
+	AWA 	0
+	PRE 	0
+
+Defenses [15]
+	Dodge 	10 + 5 + 2 = 17
+	Parry 	10 + 5 + 2 = 17
+	Tough 	+0 + 9 + 2 = +11
+	Will 		+0 + 0 + 7 = +6
+	Fort		+0 + 9 + 2 = +11
+
+Skills [20]
+	Perception 		0 + 6 (3) = +6
+	Close Combat
+		Unarmed 		5 + 4 (2) = +9
+	Athletics 		9 + 6 (3) = +15
+	Acrobatics  	5 + 6 (3) = +11
+	Insight 			0 + 8 (4) = +8
+	Intimidate 		0 + 10 (5) = +10
+
+Advantages [10]
+	Move By Action 0
+	All-out Attack 1
+	Accurate Attack 1
+	Power Attack 1
+	Defensive Attack 1
+	Diehard 1
+	Interpose 1
+	Taunt 1
+	Improved Crit: Melee 1
+	Takedown 2
+	
+Powers [37]
+	Safe Fall 2
+	Speed 5
+	Leaping 5
+	Regeneration 5
+	The Strongest Person Alive (20)
+		Power Strike [18]
+			Strength Based Damage 0
+			Affliction 9
+			Extra Effect 9
+			Dazed/Vulnerable -> Stunned/Defenseless -> Sent Flying
+		Shockwave Strike [9 > 1]
+			Strength Based Damage 0
+			Area 9
+		Powerlifting [5 > 1]
+			Limited Enhanced Strength 5
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+	Defenses
+		Dodge: 10
+		Parry: 10
+		Tough: +0
+		Will:  +0
+		Fort:  +0
+	Attacks
+		Unarmed
+		+0 vs Parry
+		Damage DC 15

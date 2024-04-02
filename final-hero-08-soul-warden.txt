@@ -1,0 +1,92 @@
+Soul Warden, Energy Manipulator Type (PL 8 / 120)
+
+Description
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 30
+	Defenses 			 22
+	Skills 				 15
+	Advantages 		 14
+	Powers 				 39
+	Total 				120/120/0
+
+Abilities [30]
+	STR 	0
+	STA 	2
+	AGL   0
+	DEX 	0
+	FGT   0
+	INT 	2
+	AWA 	6
+	PRE 	5
+
+Defenses [22]
+	Dodge 	10 + 0 + 5 = 15 (+5)
+	Parry 	10 + 0 + 5 = 15 (+5)
+	Tough 	+0 + 2 + 4 = +6
+	Will 		+0 + 6 + 6 = +12
+	Fort		+0 + 2 + 2 = +4
+
+Skills [15]
+	Deception					5 + 4 (2) = +9
+	Insight 					6 + 4 (2) = +10
+	Perception 				6 + 4 (2) = +10
+	Investigate 			2 + 6 (3) = +8
+	Persuasion 				5 + 2 (1) = +7
+	Expertise
+		Magic 		 			6 + 2 (1) = +8
+	Ranged
+		Spirits 				0 + 8 (4) = +8
+
+Advantages [14]
+	Move By Action 0
+	Contacts 1
+	Connected 1
+	Well Informed 1
+	Ritualist 1
+	Assessment 1
+	Leadership 2
+	Setup 1
+	Teamwork 1
+	Daze 1
+	Fascinate 1
+	Taunt 1
+	Startle 1
+	Feature: Wealth 1
+	
+Powers [39]
+	Comprehend Spirits 2 (4)
+	Comprehend Languages 2 (4)
+	See and Hear Incorporeal 4 (4)
+	Spirit Commands 25 + 2 (27)
+		Spirit Assault
+			Affects Corporeal Alternate Resist Will Ranged Damage 8 (25)
+		Spirit Guardian
+			Affects Corporeal Reaction Protection 5 (21 -> 1)
+		Spirit Infestation
+			Affects Corporeal Ranged Affliction 8 (17 -> 1)
+			Dazed -> Compelled -> Controlled
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+	Defenses
+		Dodge: 10
+		Parry: 10
+		Tough: +0
+		Will:  +0
+		Fort:  +0
+	Attacks
+		Unarmed
+		+0 vs Parry
+		Damage DC 15

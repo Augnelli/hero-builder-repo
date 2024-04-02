@@ -1,0 +1,149 @@
+Daywalker, The Half Vampire (PL 8 / 150)
+
+	Description
+		Gender: Male
+		Pronouns: He/Him
+		Age: 30
+		Height: 6'2"
+		Weight: 200 lbs
+		Build: Very athletic, muscular, toned
+		Hair: Black, short mowhawk
+		Ethnicity: Black American
+		Clothes: Combat armor, trench coat, combat fatigues, combat boots
+
+	Background
+		Born the child of a human and a vampire, an abomination in the eyes of the vampire world and reviled by humans who know what he is
+
+	Power Source
+		Half Human, Half Vampire
+		His vampire ancestry gives him impressive abilities
+		His human ancestry lets him walk in the light of day, although it is uncomfortable
+
+	Motivations
+		Hunt down the vampire menace
+
+	Complications
+		Requires Blood to rest
+
+	Totals
+		Abilities 		44
+		Defenses 			30
+		Skills 				29
+		Advantages 		26
+		Powers 				21
+		Total 			 150/150/0
+
+	Abilities [44]
+		STR 	4
+		STA 	4
+		AGL   4
+		DEX 	4
+		FGT   4
+		INT 	0
+		AWA 	4
+		PRE 	-2
+
+	Defenses [30]
+		Dodge 	10 + 4 + 8 = 22/+12
+		Parry 	10 + 4 + 8 = 22/+12
+		Tough 	+0 + 4 + 2 = +6 [+8]
+		Will 		+0 + 4 + 6 = +10
+		Fort		+0 + 4 + 6 = +10
+
+	Skills [29]
+		Acrobatics 		4 + 6 (3) = +10
+		Athletics 		4 + 6 (3) = +10
+		Intimidate 	 -2 + 10 (5) = +8
+		Investigate 	0 + 6 (3) = +6
+		Perception		4 + 6 (3) = +10
+		Stealth 			4 + 6 (3) = +10
+		Ranged
+			Pistols 		4 + 6 (3) = +10
+		Melee
+			Blades 			4 + 6 (3) = +10
+			Unarmed 		4 + 6 (3) = +10
+
+	Advantages [26]
+		Move-By Action 0
+		Diehard 1
+		Improved Crit 1
+		Accuarate Attack 1
+		Power Attack 1
+		Defensive Attack 1
+		All-out Attack 1
+		Improved Aim 1
+		Improved Trip 1
+		Improved Initiative 1
+		Improved Defense 1
+		Hide in Plain Sight 1
+		Uncanny Dodge 1
+		Attractive 1
+		Startle 1
+		Quick Draw 1
+		Prone Fighting 1
+		Takedown 1
+		Weapon Bind 1
+		Improved Disarm 1
+		Fearless 1
+		Evasion 1
+		Equipment 5 (25)
+			Sword [4]
+				Strength Based Slashing Damage 4 
+			Heavy SMG [14]
+				Multi-attack 4 Ranged 4 Kinetic/Bullet Damage 4
+				Accurate 2
+			Combat Armor [5]
+				Proteciton 2
+				Radio Sense 1
+				Swimming 2
+			Blood Drawing Kit [1]
+				Allows the safe and harmless withdrawl of 8oz of blood from a willing person, takes 1 minute
+
+	Powers [21]
+		Trackless 1
+		Speed 2
+		Leaping 2
+		Darkvision 2
+		Wall Crawl 2 (4)
+		Regeneration (5)
+		Passive Concealment 5 (5)
+
+	Combat Stats
+		Speed
+			Walk: 120 Feet (2 mph)
+			Swim: 12 Feet
+			Jump: 30 Feet
+			Initiative: +8
+		Defenses
+			Dodge: 10
+			Parry: 10
+			Tough: +0
+			Will:  +0
+			Fort:  +0
+		Defense Modifiers
+			Not vulnerable while prone
+			Automatically stabilize while dying
+			+2 to Dodge/Parry while Defending 
+		Attacks
+			Unarmed
+				+8 vs Parry
+				Damage DC 19
+			Heavy Pistol
+				+14 vs Dodge
+				Damage DC 20
+			Sword
+				+8 vs Parry
+				Damage DC 23
+		Attack Modifiers
+			No penalty to hit while prone
+			Draw weapon is free action
+			Crit on 19-20, Auto Hit on 20
+			-5 Accuracy for +5 Damage
+			-5 Damage for +5 Accuracy
+			-5 Dodge/Parry for +5 Damage
+			-5 Damage for +5 Dodge/Parry
+			Defeat Minion, make free attack against minion in range
+			Free Disarm attempt when hit while Defending
+		
+			Startle
+			Agile Feint

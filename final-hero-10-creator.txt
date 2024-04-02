@@ -1,0 +1,103 @@
+Creator, Mage (PL 10 / 150)
+
+Description
+		Gender: Male
+		Pronouns: He/Him
+		Age: 21
+		Height: 5'10"
+		Weight: 170 lbs
+		Build: Built, strong
+		Hair: Waxed head, short beard
+		Ethnicity: Hispanic
+		Clothes: Engineering Robes
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 20
+	Defenses 			 30
+	Skills 				 27
+	Advantages 		 24
+	Powers 				 49
+	Total 				 150/150/0
+
+Abilities [20]
+	STR 	2
+	STA 	2
+	AGL 	0
+	DEX 	2
+	FGT 	0
+	INT 	2
+	AWA 	2
+	PRE 	0
+
+Defenses [30]
+	Dodge 	10 + 0 + 7 = 17
+	Parry 	10 + 0 + 7 = 17
+	Tough 	+0 + 2 + 6 = +8
+	Will 		+0 + 5 + 5 = +10
+	Endure 	+0 + 2 + 5 = +7
+
+Skills [29/27]
+	Ranged: Thrown	2 + 8 (4) = +10
+	Insight 				2 + 8 (4) = +10
+	Persuasion 			0 + 8 (4) = +8
+	Athletics 			2 + 6 (3) = +8
+	Drive: Car 			2 + 6 (3) = +8
+	Investigate 		2 + 6 (3) = +8
+	Perception 			2 + 6 (3) = +8
+	Technology 			2 + 6 (3) = +8
+
+Advantages [20]
+	Move-by Action 0
+	Equipment 5
+	Inspire 3
+	Benefit: Wealth 2
+	Improved Thrown 2
+	Power Attack 1
+	Accurate Attack 1
+	All-out Attack 1
+	Defensive Attack 1
+	Connected 1
+	Fascinate 1
+	Inventor 1
+	Improvised Tools 1
+ 
+Powers [49]
+	Create Object
+		Create 10 (20)
+		Movable 10
+		Continuous 10
+		Precise 1
+		Creation Array 8
+			Metal Barrier (30 -> 2)
+				Protection 6
+				Sustained 0
+				Affects Other 6
+				Area 6
+				Selective 6
+				Creates a barrier of metal that adds a layer of defense, can be used on anyone within 30 feet but disappears if the creator falls unconscious
+			Launch Object (24 -> 2)
+				Ranged 10
+				Damage 10
+				Area 10
+				Indirect 4
+				Uses Ranged: Thrown Skill, creates a large object that crashes into a target and then fragments into rubble
+			Flying Platform (21 -> 2)
+				Flight 10 [20]
+				Platform -10
+				Aquatic 1
+				Area 10
+				Creates a 30 foot wide platform that can fly extremely fast through the air
+			Serpent Steel (30 -> 2)
+				Ranged 10
+				Affliction 10
+				Extra Effect 10
+					Restrained -> Immobile/Defenseless -> Paralyzed
+				Wraps the target in metal bands that prevent it from being able to move or defend itself

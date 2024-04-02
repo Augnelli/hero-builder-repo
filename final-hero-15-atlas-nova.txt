@@ -1,0 +1,121 @@
+Atlas Nova, Protector of Earth (PL 15 / 225)
+
+Description
+	Age 24
+	Height 6'3"
+	Weight 220lbs
+	Hair: Short, brown
+	Skin: Light, freckled
+	Build: Athletic, fit, and muscular
+	Clothes: 
+
+Background
+	Born on Earth to an average American family
+	He was subjected to a cosmic ray of energy that transformed him to an Immortal
+
+Power Source
+
+Motivations
+	Responsibility to Earth
+
+Complications
+	
+
+Totals
+	Abilities 		 60
+	Defenses 			 20
+	Skills 				 20
+	Advantages 		 21
+	Powers 				104
+	Total 				225/225/0
+
+Abilities [60]
+	STR 	5
+	STA 	5
+	AGL   5
+	DEX 	0
+	FGT   5
+	INT 	0
+	AWA 	5
+	PRE 	5
+
+Defenses [20]
+	Dodge 	10 + 5 + 5 = 20 (+10)
+	Parry 	10 + 5 + 5 = 20 (+10)
+	Tough 	+0 + 15 + 0 = +20
+	Will 		+0 + 5 + 10 = +15
+	Fort		+0 + 15 + 0 = +15
+ 
+Skills [20]
+	Athletics 		15 + 4 (2) = +19
+	Close Combat 	 5 + 10 (5) = +15
+	Perception 		 5 + 6 (3) = +11
+	Insight 			 5 + 6 (3) = +11
+	Persuasion 		 5 + 6 (3) = +11
+	Intimidate 		 5 + 4 (2) = +9
+	Treatment 		 0 + 4 (2) = +4
+	
+Advantages [16/21]
+	Move-By Action 0
+	Power Attack 1
+	Accurate Attack 1
+	Defensive Attack 1
+	All-out Attack 1
+	Fast Grab 1
+	Improved Grab 1
+	Improved Hold 1
+	Improved Defense 1
+	Improved Trip 1
+	Improved Smash 1
+	Improved Critical 1
+	Enhanced Initiative 1
+	Interpose 1
+	Fearless 1
+	Takedown 2
+	Benefits 3
+		Diplomatic Immunity: USA 1
+		Security Clearance: Top Secret 1
+		Status: 
+	
+Powers [104]
+	Enhanced Strength 10 (20)
+	Enhanced Stamina 10 (20)
+	Speed 10
+	Leaping 10
+	Regeneration 15 (15)
+	Immunity
+		Life Support  10 (10)
+		Safe Fall 2
+	Immortality 14
+	Comprehend Languages 1 (2)
+		Can understand all spoken languages
+		Can read, speak, write English
+
+Combat Stats
+	Initiative: +13
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+		Fly: 120 Miles (64,000 mph)
+		Free move to intercept attack aimed at another character
+	Defenses
+		Dodge: +15 (+2 vs Area attacks)
+		Parry: +15
+		Tough: +15
+		Will:  +15 (Immune to Fear effects)
+		Fort:  +15
+		If dead, automatically reanimate after every round, unless killed by a Kith or Kin Weapon
+	Attacks
+		Unarmed
+			+15 vs Parry (Crit 19-20)
+			Damage DC 30
+		Modifiers
+			All-out (-2/-5 Defense for +2/+5 Damage)
+			Defensive (-2/-5 Damage for +2/+5 Defenses)
+			Power (-2/-5 Accuracy for +2/+5 Damage)
+			Accurate (-2/-5 Damage for +2/+5 Accuracy)
+			Fast Grab (Free grab check on hit)
+			Improved Grab (Grab with one hand)
+			Improved Hold (-5 Penalty to escape)
+			Defeat Minion, move, make free attack, repeat as necessary

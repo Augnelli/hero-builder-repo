@@ -1,0 +1,97 @@
+Corine Fulgencio, "Luminous", Winged Radiant Paragon (PL 10 / 150)
+
+Description
+	Gender: Female
+	Age: 22
+	Height: 5'8"
+	Weight: 130lbs
+	Build: Flawlessly athletic
+	Hair: Golden blond with white highlights
+	Skin: Bronzed
+	Pronouns: She/Her
+
+Background
+	An aspect of the Kin, she is the Avatar of Human Hope, a powerful entity that protects those who can't protect themselves
+
+Power Source
+	The Hope of Humanity
+
+Motivations
+	Help All People, regardless of their good or evil nature
+
+Complications
+
+Totals
+	Abilities 		 38
+	Defenses 			 21
+	Skills 				 18
+	Advantages 		 11
+	Powers 				 60
+	Total 				148/150/2
+
+Abilities [38]
+	STR 	4
+	STA 	4
+	AGL   2
+	DEX 	2
+	FGT   2
+	INT 	0
+	AWA 	3
+	PRE 	2
+
+Defenses [21]
+	Dodge 	10 + 2 + 6 = 18 (+6)
+	Parry 	10 + 2 + 6 = 18 (+6)
+	Tough 	+0 + 10 + 2 = +12
+	Will 		+0 + 3 + 7 = +10
+	Fort		+0 + 10 + 0 = +10 ()
+
+Skills [18]
+	Close: Unarmed 		2 + 8 (4) = +10
+	Ranged: Light 	 	0 + 10 (5) = +10
+	Athletics 				10 + 2 (1) = +12
+	Acrobatics 				2 + 4 (2) = +6
+	Perception 				2 + 4 (2) = +6
+	Insight 					2 + 6 (3) = +5
+	Persuasion 				2 + 2 (1) = +4
+
+Advantages [11]
+	Move By Action 0
+	Power Attack 1
+	All-out Attack 1
+	Accurate Attack 1
+	Defensive Attack 1
+	Diehard 1
+	Teamwork 1
+	Setup 1
+	Fearless 1
+	Agile Feint 1
+	Installation 2
+	
+Powers [60]
+	Enhanced Strength 6 (12)
+	Enhanced Stamina 6 (12)
+	Noticable Revealable Winged Flight (10)
+		As a free action, can reveal wings
+		Without revealed wings, can not fly or hover
+		Wings are luminous ethereal light but are affected by physical interactions
+
+	Radiant Energy (25)
+		Radiant Spear
+			Quirk (Marking) 1 Ranged 10 Radiant Damage 10 (21)
+			A long spear of radiant energy that marks the target with glittering light
+		Radiant Rehabilitation
+			Radiant Healing 10 (20 -> 1)
+			+10 vs DC 10, each degree of success removes 1 injury
+			Touch the target and infuse them with radiant energy to remove their injuries
+		Radiant Flash
+			Area 10 Affliction 10 Extra Effect 10 Limited Degree -10 (20 -> 1)
+			Impaired Vision/Vulnerable -> Blind
+			Spin and sweep radiant energy around you.
+		Radiant Burst
+			Area Cone 10 Radiant Damage 10 (20 -> 1)
+			Sweep your wings to create a spears of radiant light that lance into the ground.
+		Radiant Empowerment
+			Affects Only Others 0 Concentration -10 Area 10 Enhanced Strength 20 (20 -> 1)
+			Everyone in a 30 foot area gain enhanced strength while you concentrate
+			

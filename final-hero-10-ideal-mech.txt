@@ -1,0 +1,211 @@
+Main Character - The Pilot
+	Pilot Totals
+		Abilities: 20
+		Defenses: 16
+		Skills: 34
+		Advantages: 80
+		Point Total: 150 of 150
+
+	Complications
+		Requires a wheelchair
+		Physically frail
+		
+	Abilities {20}
+		STR 	-2
+		STA 	-2
+		AGL 	-2
+		DEX 	-2
+		FGT 	-2
+		INT 	10
+		AWA 	 5
+		PRE 	 5
+
+	Defenses {16}
+		Dodge 		10 - 2 + 3 = 11
+		Parry 		10 - 2 + 3 = 11
+		Tough 		0 - 2 + 2 = +0
+		Will 			0 + 5 + 5 = +10
+		Fort 			0 - 2 + 3 = +1
+
+	Skills {33}
+		Technology 				10 + 5 (2.5) = +15
+		Insight 					5 + 5 (2.5) = +10
+		Persuasion 				5 + 5 (2.5) = +10
+		Deception 				5 + 5 (2.5) = +10
+		Expertise: Mech 	10 + 5 (2.5) = +15
+		Perception 				5 + 5 (2.5) = +10
+		Investigate 			10 + 5 (3) = +16
+		Vehicles: VTOL 		-2 + 12 (6) = +10
+		Ranged Combat
+			Mech Weapons 		-2 + 10 (5) = +8
+		Melee Combat
+			Mech Weapons 		-2 + 10 (5) = +8
+
+	Advantages {80}
+		Wealth 5
+		All-out Attack 1
+		Accurate Attack 1
+		Defensive Attack 1
+		Power Attack 1
+		Feature: Lieutenant 1
+		Takedown 2
+		Move-by Action 1
+		Skill Mastery: Expertise Mech Pilot 1
+		Contacts 1
+		Connected 1
+		Well Informed 1
+		Eidetic Memory 1
+		Sidekick 21
+		Equipment 42
+			Mech 30
+			VTOL 12
+
+-----
+
+Sidekick - The Mechanic John Carmack
+	Motivations
+		Help Pilot, as they are a team
+	
+	Complications
+		Criminal History
+
+	105 of 105
+	Abilities [50]
+		STR 	5
+		STA 	5
+		AGL 	5
+		DEX 	5
+		FGT 	5
+		INT 	0
+		AWA 	0
+		PRE 	0
+
+	Defenses [16]
+		Dodge 	10 + 0 + 5 = 16
+		Parry 	10 + 0 + 5 = 16
+		Tough 	10 + 5 + 1 = +6 (+9)
+		Will 		10 + 2 + 5 = +7
+		Fort 		10 + 5 + 0 = +6
+
+	Skills [29]
+		Vehicles: Driving 	5 + 8 (4) = +13
+		Vehicles: Pilot 		5 + 6 (3) = +11
+		Melee: Unarmed 			5 + 4 (2) = +9
+		Technology 					0 + 8 (4) = +8
+		Athletics 					5 + 6 (3) = +11
+		Acrobatics 					5 + 6 (3) = +11
+		Investigate 				0 + 6 (3) = +6
+		Stealth 						5 + 6 (3) = +11
+		Treatment 					0 + 6 (3) = +6
+
+	Advantages [10]
+		Skill Mastery: Technology 1
+		Move-by Action 1
+		Dodge Roll 4
+		Feature: Senior Chief Engineer
+		Inventor 1
+		Languages 2
+
+-----
+
+The Mech Suit
+	Totals
+		Frame: 16
+		Defenses: 16
+		Power: 30
+		Servos: 28
+		Sensor: 10
+		Comms: 9
+		Armor: 6
+		Weapon: 31
+		Final: 147 of 150
+
+	Frame [16]
+		Permanent Growth 8 (16)
+		+8 Strength
+		+8 Toughness
+		+8 Mass
+		+4 Intimidate
+		+2 Size
+		+1 Speed
+		-8 Stealth
+		-4 Dodge
+		-4 Parry
+	Defenses [16]
+		Dodge 	16 (10 - 4 + 8 + 2)
+		Parry 	16 (10 - 4 + 8 + 2)
+		Tough 	+14 (0 + 8 + 0 + 6)
+		Fort 		Immune
+		Will 		Pilot
+	Power Core [30]
+		Immunity: Fortitude (30)
+	Servos [28]
+		Strength +2 (4)
+		Agility +2 (4)
+		Dexterity +2 (4)
+		Fighting +2 (4)
+		Speed +6 (6)
+		Leaping 6 (6)
+	Sensors [10]
+		Distance Sense (1)
+		Time Sense (1)
+		Direction Sense (1)
+		Radio Sense (1)
+		Darkvision (2)
+		Extended Vision 3 (3)
+		Safe Fall 1 (2)
+	Comms [9]
+		Subtle Network Comms 2 (9)
+	Armor [6]
+		Protection 6
+	Weapons Array [32]
+		Missiles (25)
+			Unreliable -10
+				5 Attacks
+			Ranged 10
+			Area 10
+			Explosive Damage 10
+			Indirect 3
+			Extended Range 2
+		Sniper Cannon (24 -> 1)
+			Ranged 10
+			Bullet Damage 10
+			Precise 2
+				Ignore Ranged Cover and Concealment
+			Extended Range 5
+			Improved Crit 2
+			Semi-Unreliable -5
+				10 Attacks
+		Stun Field (20 -> 1)
+			Affliction 10
+			Area 10
+				Dazed -> Stunned -> Incapacitated
+		Greatsword (19 -> 1)
+			Slashing Striking 10
+			Improved Trip 1
+			Improved Defense 1
+			Improved Critical 1
+			Improved Disarm 1
+			Improved Smash 1
+			Weapon Bind 1
+			Weapon Break 1
+			Reach 1
+			Evasion 1
+
+-----
+
+The VTOL
+	60 of 60
+	Movement: Flying 8 (16)
+	Size: 5 (5)
+	Strength 12 (24)
+	Toughness +7 (7)
+	Features (8)
+		Vertical Takeoff and Landing 1
+		Secure 1
+		Sensors 1
+		Comms 1
+		Computer 1
+		Living Space 1
+		Repair Bay 1
+		Medical Bay 1

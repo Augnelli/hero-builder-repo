@@ -1,0 +1,130 @@
+Mage Knight, Warrior Hero (PL 9 / 135)
+
+Description
+	Gender: Male
+	Age: 25
+	Height: 5'10"
+	Weight: 170
+	Build: Muscular Athletic
+	Hair: Black, short, slicked back
+	Skin: Light, white
+	Pronouns: He/Him
+	Style: Clean and plain, he doesn't like to stand out in a crowd
+		Casual: Athletic pants, t-shirt, hoodie sweater, athletic shoes
+		Fancy: Formal robes
+		Hero: Combat Suit (See equipment)
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 34
+	Defenses 			 21
+	Skills 				 27
+	Advantages 		 22
+	Powers 				 29
+	Total 				 133/135/2
+
+Abilities [34]
+	STR 	0
+	STA 	2
+	AGL   3
+	DEX 	0
+	FGT   3
+	INT 	4
+	AWA 	2
+	PRE 	3
+
+Defenses [21]
+	Dodge 	10 + 3 + 2 = 15 (19)
+	Parry 	10 + 3 + 2 = 15 (19)
+	Tough 	+0 + 2 + 1 = +3 (+9)
+	Will 		+0 + 0 + 9 = +9
+	Fort		+0 + 2 + 7 = +9
+
+Skills [27]
+	Expertise
+		Magic 			4 + 6 (4) = +10
+	Close Combat
+		Blades 			3 + 6 (3) = +9
+	Insight 			2 + 6 (3) = +8
+	Perception 		2 + 6 (3) = +8
+	Stealth 			3 + 4 (2) = +7
+	Treatment 		3 + 4 (2) = +7
+	Persuasion 		3 + 4 (2) = +7
+	Athletics 		0 + 8 (4) = +8
+	Drive 				0 + 8 (4) = +8
+
+Advantages [22]
+	Move By Action 0
+	Power Attack 1
+	Accurate Attack 1
+	All-out Attack 1
+	Defensive Attack 1
+	Instant Up 1
+	Evasion 1
+	Improved Defense 1
+	Ritualist 1
+	Improved Defense 1
+	Benefit: Wealth 1
+	Equipment 12
+		60 of 60 equipment points
+		The Force Blade [38]
+			Slashing Damage 9 (9)
+			Protection 6 (6)
+			Enhanced Dodge (4)
+			Enhanced Parry (4)
+			Reach 5
+			Danger Sense 1
+			Penetrates Concealment Extended Detect Magic 2 (9)
+				-1/100 feet
+		House/Large Appartment [18]
+			Size: Medium (2)
+			Magic Leyline (1)
+			Magically Secure (1)
+			Magically Movable (1)
+				Teleport Slow Medium Extended Only 12 (4)
+			Magically Larger On the Inside: Large (3)
+				Training Ground (1)
+				Extended Living Quarters (1)
+				Magical Staff (1)
+				Magical Infirmary (1)
+				Magic Ritual Room (1)
+		Magic Cloak [4]
+			Winged Flight 4
+
+Powers [29]
+	Magic Powers (27 + 2)
+		Magical Creation 9r x 3 = 27
+			Create 2/r
+			Continuous 1/r
+		Magical Portal 9r x 3 = 27 -> 2
+			Teleport 2/r
+			Portal 2/r
+			Extended 1/r
+			Slow -1/r
+			Medium -1/r
+				Magical Leylines
+
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+		Teleport: Up to 1 mile along Magic Leylines
+	Defenses
+		Dodge: 18
+		Parry: 18
+		Tough: +8 (+2 without sword)
+		Will:  +8
+		Fort:  +8
+	Attacks
+		Unarmed
+		+8 vs Parry
+		Damage DC 23

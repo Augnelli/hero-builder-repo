@@ -1,0 +1,118 @@
+Hero Name, Hero Type (PL 8 / 120)
+
+Description
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 34
+	Defenses 			 20
+	Skills 				 20
+	Advantages 		 40
+	Powers 				 0
+	Total 				114/120/6
+
+Abilities [34]
+	STR 	0
+	STA 	0
+	AGL   2
+	DEX 	2
+	FGT   2
+	INT 	5
+	AWA 	2
+	PRE 	4
+
+Defenses [20]
+	Dodge 	10 + 2 + 3 = 15
+	Parry 	10 + 2 + 3 = 15
+	Tough 	+0 + 0 + 4 = +4
+	Will 		+0 + 2 + 4 = +6
+	Fort		+0 + 0 + 4 = +4
+
+Skills [19/20]
+	Close Combat
+		Unarmed 			2 + 6 (3) = +8
+	Ranged Combat
+		Mech Weapon 	2 + 6 (3) = +8
+	Technology 			5 + 6 (3) = +11
+	Drive
+		Mech Suit 		5 + 6 (3) = +11
+	Investigate 		5 + 2 (1) = +9
+	Persuasion 			4 + 4 (2) = +8
+	Insight 				2 + 2 (1) = +4
+	Treatment 			5 + 2 (1) = +7
+	Expertise
+		Engineer 			5 + 2 (1) = +7
+
+Advantages [36/40]
+	Move By Action 0
+	Benefit: Wealth 5
+	Expertise: Drive Mech Suit 1
+	Power Attack 1
+	All-out Attack 1
+	Accurate Attack 1
+	Defensive Attack 1
+	Equipment 26
+		Mech Suit
+			Total: 16 + 11 + 30 + 5 + 17 + 6 + 15 = 100/120/20
+			Frame (16)
+				Permanent 0 Growth 8
+					+8 Strength
+					+8 Protection
+					+4 Intimidate
+					+1 Speed
+					+2 Size (30 feet)
+					-4 Dodge
+					-4 Parry
+					-8 Stealth
+			Servos (11)
+				Enhanced Strength 2
+				Speed 4
+				Leaping 5
+			Power Core (30)
+				Immunity Fortitude 30
+			Sensors (5)
+				Distance Sense 1
+				Time Sense 1
+				Direction Sense 1
+				Low Light Vision 1
+				Eidetic Memory 1
+			Comms (17)
+				Area 2 Selective 2 Subtle 1 Radio Communication 2
+			Armor (6)
+				Protection 6
+			Weapons (15)
+				Railgun
+					Ranged 8
+					Damage 8
+					Improved Crit 1
+					Increased Range 2
+					Quirk -1
+						Must always be an All-out Attack
+				
+
+		Transport Vehicle
+	
+Powers [0]
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+	Defenses
+		Dodge: 10
+		Parry: 10
+		Tough: +0
+		Will:  +0
+		Fort:  +0
+	Attacks
+		Unarmed
+		+0 vs Parry
+		Damage DC 15

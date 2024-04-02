@@ -1,0 +1,126 @@
+Mage Knight, Warrior Hero (PL 8 / 120)
+
+Description
+	Gender: Male
+	Age: 25
+	Height: 5'10"
+	Weight: 170
+	Build: Muscular Athletic
+	Hair: Black, short, slicked back
+	Skin: Light, white
+	Pronouns: He/Him
+	Style: Clean and plain, he doesn't like to stand out in a crowd
+		Casual: Athletic pants, t-shirt, hoodie sweater, athletic shoes
+		Fancy: Formal robes
+		Hero: Combat Suit (See equipment)
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 30
+	Defenses 			 16
+	Skills 				 24
+	Advantages 		 20
+	Powers 				 26
+	Total 				 116/120/4
+
+Abilities [30]
+	STR 	0
+	STA 	2
+	AGL   3
+	DEX 	0
+	FGT   3
+	INT 	3
+	AWA 	2
+	PRE 	2
+
+Defenses [16]
+	Dodge 	10 + 3 + 1 = 14 (18)
+	Parry 	10 + 3 + 1 = 14 (18)
+	Tough 	+0 + 2 + 0 = +2 (+8)
+	Will 		+0 + 0 + 8 = +8
+	Fort		+0 + 2 + 6 = +8
+
+Skills [24]
+	Expertise
+		Magic 			3 + 6 (3) = +9
+	Close Combat
+		Blades 			3 + 5 (2.5) = +8
+	Insight 			2 + 6 (3) = +8
+	Perception 		2 + 6 (3) = +8
+	Stealth 			3 + 2 (1) = +5
+	Treatment 		3 + 4 (2) = +7
+	Persuasion 		3 + 4 (2) = +7
+	Athletics 		0 + 7 (3.5) = +7
+	Drive 				0 + 8 (4) = +8
+
+Advantages [20]
+	Move By Action 0
+	Power Attack 1
+	Accurate Attack 1
+	All-out Attack 1
+	Defensive Attack 1
+	Instant Up 1
+	Evasion 1
+	Improved Defense 1
+	Ritualist 1
+	Benefit: Wealth 1
+	Equipment 11
+		53 of 55 equipment points
+		The Force Blade [37]
+			Slashing Damage 8 (8)
+			Protection 6 (6)
+			Enhanced Dodge (4)
+			Enhanced Parry (4)
+			Reach 5
+			Danger Sense 1
+			Penetrates Concealment Extended Detect Magic 2 (9)
+				-1/100 feet
+		House/Large Appartment [18]
+			Size: Medium (2)
+			Magic Leyline (1)
+			Magically Secure (1)
+			Magically Movable (1)
+				Teleport Slow Medium Extended Only 12 (4)
+			Magically Larger On the Inside: Large (3)
+				Training Ground (1)
+				Extended Living Quarters (1)
+				Magical Staff (1)
+				Magical Infirmary (1)
+				Magic Ritual Room (1)
+
+Powers [26]
+	Magic Powers (24 + 2)
+		Magical Creation 8r x 3 = 24
+			Create 2/r
+			Continuous 1/r
+		Magical Portal 8r x 3 = 24 -> 2
+			Teleport 2/r
+			Portal 2/r
+			Extended 1/r
+			Slow -1/r
+			Medium -1/r
+				Magical Leylines
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+		Teleport: Up to 1 mile along Magic Leylines
+	Defenses
+		Dodge: 18
+		Parry: 18
+		Tough: +8 (+2 without sword)
+		Will:  +8
+		Fort:  +8
+	Attacks
+		Unarmed
+		+8 vs Parry
+		Damage DC 23

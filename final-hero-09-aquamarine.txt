@@ -1,0 +1,110 @@
+Aquamarine, Energy Controller (PL 9 / 135)
+
+Description
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 24
+	Defenses 			 32
+	Skills 				 17
+	Advantages 		 5
+	Powers 				 43
+	Total 				 131/135/4
+
+Abilities [24]
+	STR 	0
+	STA 	0
+	AGL   2
+	DEX 	2
+	FGT   2
+	INT 	0
+	AWA 	2
+	PRE 	4
+
+Defenses [32]
+	Dodge 	10 + 2 + 7 = 19
+	Parry 	10 + 2 + 7 = 19
+	Tough 	+0 + 0 + 6 = +6 (+9 in water bubble)
+	Will 		+0 + 2 + 5 = +7
+	Fort		+0 + 0 + 7 = +7
+
+Skills [17]
+	Athletics 			0 + 8 (4) = +8
+	Perception 			2 + 6 (3) = +8
+	Insight 				2 + 6 (3) = +8
+	Investigate 		0 + 4 (2) = +4
+	Persuasion 			4 + 6 (3) = +10
+	Intimidate 			4 + 4 (2) = +8
+
+Advantages [5]
+	Move By Action 0
+	Improved Initiative 2
+	Attractive 2
+	Teamwork 1
+	Taunt 1
+	
+	
+Powers [43]
+	Aquatic Adaptation
+		Type: Movement
+		Swimming 6
+		Immunity: Water Suffocation 1
+		Immunity: Pressure 1
+		Lowlight Vision 1
+		Comprehend Aquatic Creatures 2 (2)
+	Water Manipulation and Control (32)
+		Water Movement (28)
+			Type: Utility
+			Precise 1
+			Perception 9 = 18
+			Move Object 9 = 18
+			Limited to Water -9
+		Blood Control (27 -> 1)
+			Type: Utility
+			Ranged 9
+			Extra Effect 9
+			Affliction 9
+				Impaired/Vulnerable -> Compelled/Defenseless -> Controlled
+		Aqua Fury (27 -> 1)
+			Type: Offensive
+			Area 9
+			Selective
+			Damage 9
+			Limited Degree -9
+			Affliction 9
+				Hindered -> Prone
+		Water Bubble (11 -> 1)
+			Type: Defensive
+			Sustained 3
+			Area 3
+			Enhanced Protection 3
+			Immunity
+				Pressure 1
+				Water Suffocation 1
+		Water Clone
+			Type: Utility
+			?????
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 1 Mile
+		Jump: 6 Feet
+	Defenses
+		Dodge: 10
+		Parry: 10
+		Tough: +0
+		Will:  +0
+		Fort:  +0
+	Attacks
+		Unarmed
+		+0 vs Parry
+		Damage DC 15
+

@@ -1,0 +1,205 @@
+Hero Name, Hero Type (PL 10 / 150)
+
+Description
+	Height: 5'8"
+	Weight: 110 lbs
+	Age: 24
+	Pronouns: He/Him
+	Build: Slender, weak, frail
+	Hair: Long, brown, neat
+	Eyes: Blue, sharp, piercing
+	Skin: Light
+	Clothes: Fitted suits, fine casuals, walking cane
+
+Background
+	Born from a 
+
+Power Source
+	Wealth
+	Knowledge
+
+Motivations
+	Help people
+
+Complications
+	Weak Muscles: Reduced strength, reduced dexterity, reduced agility
+	Frail Body: Reduced stamina, reduced fighting
+
+Totals
+	Abilities 		 10
+	Defenses 			 15
+	Skills 				 20
+	Advantages 		 14
+	Powers 				 91
+	Total 				 150/150/0
+
+Abilities [10]
+	STR 	-2
+	STA 	-2
+	AGL   -2
+	DEX 	-2
+	FGT   -2
+	INT 	8
+	AWA 	5
+	PRE 	2
+
+Defenses [15]
+	Dodge 	10 - 2 + 2 = 10 (+0)
+	Parry 	10 - 2 + 2 = 10 (+0)
+	Tough 	+0 - 2 + 2 = +0
+	Will 		+0 + 5 + 7 = +12
+	Fort		+0 - 2 + 2 = +0
+
+Skills [17]
+	Insight 				5 + 4 (2) = +11
+	Deception 			2 + 4 (2) = +6
+	Persuasion 			2 + 6 (3) = +8
+	Investigate 		8 + 2 (1) = +10
+	Expertise
+		Engineer  		8 + 4 (2) = +12
+	Technology 			8 + 4 (2) = +12
+	Vehicles 			 -2 + 8 (4) = +6
+	Treatment 			8 + 2 (1) = +10
+
+Advantages [17]
+	Feature: Wealth 5
+	Connected 1
+	Contacts 1
+	Well-informed 1
+	Inventor 1
+	Assessment 1
+	Eidetic Memory 1
+	Move By Action 0
+	Equipment 6
+		Totals: 22 + 8 = 30/30/0
+		Mobile Fortress [22]
+			Size: Large (2)
+			Defense: +16 (5)
+			Security System 2
+			Communications 1
+			Computer 1
+			Defense System 1
+			Fire Prevention System 1
+			Garage 1
+			Hangar 1
+			Infirmary 1
+			Intelligent 1
+			Living Space 1
+			Movalbe 1
+			Personnel 1
+			Power System 1
+			Workshop 1
+		Armored Limosine [8]
+			Size: Huge
+			Strength: 8
+			Speed: 6
+			Defense: 6
+			Toughness: 10
+			Cost: 8
+	
+Powers [91]
+	Drone Summon (91)
+		Mental Link (1)
+		Multiple 2 (40)
+		Variable 1 (10)
+		Partially Heroic 1 (10)
+		Controlled (10)
+		Summon 10 (20)
+		Types
+			Basic
+				Totals 60 + 23 + 10 + 21 + 36 = 150/150/0
+				Abilities (60)
+					STR 	5
+					STA 	5
+					AGL 	5
+					DEX 	5
+					FGT 	5
+					INT 	-
+					AWA 	5
+					PRE 	0
+				Defenses (23)
+					Dodge 	10 + 5 + 4 = 19
+					Parry 	10 + 5 + 4 = 19
+					Tough 	+0 + 5 + 5 = +10
+					Will 		+0 + 0 + 10 = +10
+					Fort 		Immune
+				Skills (10)
+					Athletics 		5 + 5 (2.5) = +10
+					Stealth  			5 + 5 (2.5) = +10
+					Perception 		5 + 5 (2.5) = +10
+					Vehicles 			5 + 5 (2.5) = +10
+				Advantages (21)
+					Close Attack 5
+					Ranged Attack 5
+					Accurate Attack 1
+					All-out Attack 1
+					Defensive Attack 1
+					Power Attack 1
+					Instant Up 1
+					Improved Initiative 3
+					Evasion 1
+					Improved Defense 1
+					Interpose 1
+				Powers (36)
+					Speed 2
+					Leaping 2
+					Darkvision 2
+					Immunity: Fortitude (30)
+				Notes
+					Can summon up to 4 of these.
+					Each summon takes 1 standard action.
+					Can control up to 4 at a time, as well.
+			Guardian
+				Totals 52 + 15 + 5 + 11 + 47 = 130/150/20
+				Abilities (52)
+					STR 	6 -> 10
+					STA 	6 -> 10
+					AGL 	4
+					DEX 	0
+					FGT 	5
+					INT 	-
+					AWA 	5
+					PRE 	0
+				Defenses (15)
+					Dodge 	10 + 4 - 2 + 5 = 17
+					Parry 	10 + 5 - 2 + 4 = 17
+					Tough 	+0 + 6 + 4 + 1 = +11
+					Will 		+0 + 5 + 0 + 5 = +10
+					Fort 		Immune
+				Skills (5)
+					Athletics 		8 + 2 (1) = +10
+					Close Combat 	5 + 5 (2.5) = +10
+					Perception 		5 + 3 (1.5) = +8
+				Advantages (11)
+					Accurate Attack 1
+					All-out Attack 1
+					Defensive Attack 1
+					Power Attack 1
+					Improved Defense 1
+					Interpose 1
+				Powers (47)
+					Leaping 4
+					Speed 4
+					Infravision 1
+					Immunity: Fortitude (30)
+					Permanent Growth 4 (8)
+				Notes
+					Can only summon 1.
+					Can only control 1.
+					Is Heroic
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 3 Feet, hold breath for 30 seconds
+		Jump: 3 Feet, 1 foot
+	Defenses
+		Dodge: 10
+		Parry: 10
+		Tough: +0
+		Will:  +12
+		Fort:  +0
+	Attacks
+		Unarmed
+		-2 vs Parry
+		Damage (-2) DC 13

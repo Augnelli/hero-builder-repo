@@ -1,0 +1,120 @@
+Hero Name, Hero Type (PL 9 / 135)
+
+Description
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 34
+	Defenses 			 20
+	Skills 				 23
+	Advantages 		 40
+	Powers 				 0
+	Total 				117/135/
+
+Abilities [34]
+	STR 	0
+	STA 	0
+	AGL   2
+	DEX 	2
+	FGT   2
+	INT 	5
+	AWA 	2
+	PRE 	4
+
+Defenses [20]
+	Dodge 	10 + 2 + 4 = 16 (+6)
+	Parry 	10 + 2 + 4 = 16 (+6)
+	Tough 	+0 + 0 + 4 = +4
+	Will 		+0 + 2 + 6 = +8
+	Fort		+0 + 0 + 4 = +4
+
+Skills [23]
+	Close Combat
+		Blades 				2 + 6 (3) = +8
+		Unarmed 			2 + 8 (4) = +10
+	Ranged Combat
+		Artillery 		2 + 7 (3.5) = +9
+	Technology 			5 + 7 (3.5) = +12
+	Drive
+		Mech Suit 		5 + 7 (3.5) = +12
+	Investigate 		5 + 3 (1.5) = +8
+	Persuasion 			4 + 4 (2) = +8
+	Treatment 			5 + 2 (1) = +7
+	Expertise
+		Engineer 			5 + 4 (1) = +7
+
+Advantages [38/40]
+	Move By Action 0
+	Benefit: Wealth 5
+	Expertise: Drive Mech Suit 1
+	Assessment 1
+	All-out Attack 1
+	Accurate Attack 1
+	Defenseive Attack 1
+	Power Attack 1
+	Equipment 27
+		Mech Suit
+			Total: 4 + 9 + 18 + 30 + 7 + 10 + 19 + 6 + 32 = 135/135/0
+			Frame (4)
+				Permanent Growth 4
+					+4 Strength
+					+4 Protection
+					-2 Dodge
+					-2 Parry
+					-4 Stealth
+			Servos (9)
+				Enhanced Strength 3
+				Speed 3
+			Engines (18)
+				Flight 9
+			Power Core (30)
+				Immunity Fortitude 30
+			Sensors (7)
+				Distance Sense 1
+				Time Sense 1
+				Direction Sense 1
+				Lowlight Vision 1
+				Infravision 1
+				Eidetic Memory 1
+			Life Support (10)
+				Immunity: Life Support 10
+			Comms (19)
+				Area 3 Selective 3 Subtle 1 Radio Communication 3
+			Armor (6)
+				Protection 6
+			Weapons (32)
+				Heavy Cannon 27
+					Area 9
+					Ranged 9
+					Damage 9
+				Longsword 4
+					Reach 1 Strength Based Damage 3
+
+
+
+		Transport Vehicle
+	
+Powers [0]
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+	Defenses
+		Dodge: 10
+		Parry: 10
+		Tough: +0
+		Will:  +0
+		Fort:  +0
+	Attacks
+		Unarmed
+		+0 vs Parry
+		Damage DC 15

@@ -1,0 +1,108 @@
+Mage Knight, Warrior Hero (PL 10 / 150)
+
+Description
+
+Background
+
+Power Source
+
+Motivations
+
+Complications
+
+Totals
+	Abilities 		 50
+	Defenses 			 25
+	Skills 				 22
+	Advantages 		 19
+	Powers 				 32
+	Total 				 148/150/2
+
+Abilities [50]
+	STR 	0
+	STA 	5
+	AGL   5
+	DEX 	0
+	FGT   5
+	INT 	5
+	AWA 	2
+	PRE 	3
+
+Defenses [25]
+	Dodge 	10 + 5 + 5 = 20
+	Parry 	10 + 5 + 5 = 20
+	Tough 	+0 + 5 + 0 = +5 (+10)
+	Will 		+0 + 0 + 10 = +10
+	Fort		+0 + 5 + 5 = +10
+
+Skills [22]
+	Expertise
+		Magic 			5 + 5 (2.5) = +10
+	Close Combat
+		Blades 			5 + 5 (2.5) = +10
+	Insight 			2 + 8 (4) = +10
+	Perception 		2 + 8 (4) = +10
+	Stealth 			5 + 4 (2) = +9
+	Treatment 		5 + 4 (2) = +9
+	Persuasion 		3 + 4 (2) = +7
+	Athletics 		0 + 6 (3) = +6
+
+Advantages [19]
+	Move By Action 0
+	Power Attack 1
+	Accurate Attack 1
+	All-out Attack 1
+	Defensive Attack 1
+	Instant Up 1
+	Evasion 1
+	Uncanny Dodge 1
+	Improved Defense 1
+	Improved Initiative 1
+	Ritualist 1
+	Equipment 9
+		45 of 45 equipment points
+		The Force Blade [30]
+			Slashing Damage 10 (10)
+			Protection 5 (5)
+			Reach 5
+			Danger Sense 1
+			Penetrates Concealment Extended Detect Magic 2 (9)
+				-1/100 feet
+		Appartment [5]
+			Size: Small (1)
+			Living Quarters (1)
+			Ritual Room (1)
+			Leyline (1)
+			Magically Secure (1)
+		Small Car [10]
+			Size: Medium 1
+			Speed 6
+			Strength 10
+			
+
+Powers [32]
+	Magic Powers (30 + 2)
+		Magical Creation 10r x 3 = 30
+			Create 2/r
+			Continuous 1/r
+		Magical Portal 10r x 3 = 30 -> 2
+			Portal 2/r
+			Teleport 2/r
+			Medium -1/r
+				Magical Leylines
+
+Combat Stats
+	Movement
+		Walk: 30 Feet (2 mph)
+		Swim: 6 Feet
+		Jump: 6 Feet
+	Defenses
+		Dodge: 10
+		Parry: 10
+		Tough: +0
+		Will:  +0
+		Fort:  +0
+	Attacks
+		Unarmed
+		+0 vs Parry
+		Damage DC 15

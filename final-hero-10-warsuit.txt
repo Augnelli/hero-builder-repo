@@ -1,0 +1,207 @@
+
+Warsuit, Battle Suit Hero (PL 10 / 150)
+
+Description
+	Name: 
+	Gender: Male
+	Pronouns: He/Him
+	Age: 24
+	Height: 5'11"
+	Weight: 170lbs
+	Build: Average
+	Hair: Black, high and tight
+	Skin: Dark
+	Clothes: Prefers casual clothes
+		Casual: T-shirt, jeans, sneakers, wrist watch
+		Fancy: Charcoal suit, dress shoes, black tie
+		Hero: Green flight suit with flight helmet and flight boots
+
+Background
+	Lived in Boston, racing cars as soon as he could get behind the wheel
+	A+ grades all through highschool and college
+	4.5 gpa, 1600 SAT scores, Double major in Mechanical Engineering and Physics from MIT
+	He has a nice appartment with an attached garage in the Back Bay
+	His long term girlfriend, FNAME LNAME, lives with him
+	She works at a high end restaurant as a hostess
+
+Power Source
+
+Motivations
+	Protect the city
+	Hide his identity
+	Protect his girlfriend
+
+Complications
+	The suit takes from the pilot a little bit of their life force
+
+Totals
+	Abilities 		 52
+	Defenses 			 10
+	Skills 				 33
+	Advantages 		 44
+	Powers 				 0
+	Total 				 139/150/11
+
+Abilities [52]
+	STR 	0
+	STA 	0
+	AGL   4
+	DEX 	4
+	FGT   4
+	INT 	6
+	AWA 	4
+	PRE 	4
+
+Defenses [10]
+	Dodge 	10 + 4 + 0 = 14
+	Parry 	10 + 4 + 0 = 14
+	Tough 	+0 + 0 + 2 = +2
+	Will 		+0 + 4 + 6 = +10
+	Fort		+0 + 0 + 2 = +2
+
+Skills [33]
+	Technology 			6 + 6 (3) = +12
+	Persuade 				4 + 6 (3) = +10
+	Investigate 		6 + 6 (3) = +12
+	Insight 				4 + 6 (3) = +10
+	Perception 			4 + 6 (3) = +10
+	Intimidate 			4 + 4 (3) = +10
+	Close Combat 		
+		Mech Weapons 	4 + 6 (3) = +10
+	Ranged Combat 	
+		Mech Weapons	4 + 6 (3) = +10
+	Drive
+		Cars 					4 + 6 (3) = +10
+		Mech Suit 		4 + 6 (3) = +10
+	Expertise
+		Engineer 			6 + 6 (3) = +12
+
+Advantages [44]
+	Move By Action 1
+	Power Attack 1
+	Accurate Attack 1
+	Defensive Attack 1
+	All-out Attack 1
+	Benefit: Wealth 1
+	Benefit: Ambidexterous 1
+	Improved Trip 1
+	Teamwork 1
+	Inventor 1
+	Leadership 2
+	Setup 1
+	Skill Mastery: Technology 1
+	Equipment 30 (150)
+		Suit (134) + Repair Kit (5) + Van (10) = 150/150/0
+		Combat Suit, Mark 4
+			8 + 7 + 20 + 12 + 5 + 30 + 5 + 13 + 29 = 132/135
+			Frame (8)
+				Permanent Growth 4
+					+4 Strength
+					+4 Toughness
+					+2 Intimidate
+					-2 Dodge
+					-2 Parry
+					-4 Stealth
+					Size +1
+			Armor (7)
+				Protection 7
+			Actuators (20)
+				Enhanced Strength 6
+				Enhanced Dodge 4
+				Enhanced Parry 4
+			Mobility (12)
+				Speed 7
+				Leaping 5
+			Power Core (30)
+				Immunity: Fortitude 30
+			HUD (5)
+				Time Sense 1
+				Distance Sense 1
+				Direction Sense 1
+				Lowlight Vision 1
+				Eidetic Memory 1
+			Comms (19)
+				Area 2 Selective 2 Subtle 1 Network Communication 2
+			Weapon Systems (29)
+				Autocannon (22)
+					Ranged 8
+					Damage 8
+					Extended Range 4
+					Accurate 1
+					Improved Crit 1
+				Heavy Cannon (22 -> 2)
+					Ranged 10
+					Damage 10
+					Extended Range 2
+				Halberd (8 -> 2)
+					Strength Based Damage 2
+					Reach 2
+					Improved Smash 1
+					Improved Crit 1
+					Takedown 2
+
+		Field Repair Kit (5)
+			Slow -10 Only Affects Machines -10 Heal 10
+			Starts at trime rank 10
+				Cosmetic = -2 (30 minutes)
+				Minor = -1 (1 hour)
+				Average = +0 (2 hour)
+				Major = +1 (4 hours)
+				Structural = +2 (8 hours)
+
+		Car (11)
+			Size: Large
+			Strength: 5
+			Speed: 6
+			Defense: 8
+			Toughness: 8
+
+		Warehouse (8/11)
+			Large 5
+			Personnel 1
+			Computer 1
+			Communications 1
+			Mechanics Shop 1
+			Garage 1
+			Living Quarters 1
+	
+Powers [0]
+
+Combat Stats
+	Person
+		Movement
+			Walk: 	30 Feet
+			Swim: 	6 Feet
+			Jump: 	6 Feet
+		Defenses Person 		Warsuit
+			Dodge: 	14/+4 			16/+6
+			Parry: 	14/+4 			16/+6
+			Tough: 	+2 				+12
+			Will:  	+10 				+10
+			Fort:  	+2 				Immune
+		Attacks
+			Unarmed
+				+0 vs Parry
+				Damage DC 15
+
+		Warsuit
+			Movement
+				Walk: 	
+				Swim: 	
+				Jump: 	
+			Defenses
+				Dodge: 	16/+6
+				Parry: 	16/+6
+				Tough: 	+12
+				Will: 	Pilot
+				Fort: 	Immune
+			Attacks
+				Halberd
+					+8 vs Parry
+					Damage DC 27
+				Autocannon
+					+10 vs Dodge
+					Damage DC 25
+				Missiles
+					DC 22 Dodge
+					Damage DC 27

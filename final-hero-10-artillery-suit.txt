@@ -1,0 +1,207 @@
+Pilot, Power Armor Hero (PL 10 / 150)
+
+	Description
+		Gender: Male
+		Pronouns: He/Him
+		Age: 26
+		Height: 5'6"
+		Weight: 90 lbs
+		Build: Thin and small
+		Hair: Long wavy blonde, loose
+		Ethnicity: Wite American
+		Clothes: Jeans, sneakers, dress shirt or t-shirt or hoodie, wheelchair
+
+	Background
+
+	Power Source
+
+	Motivations
+
+	Complications
+		Physically frail
+			Requires a wheelchair for most movement. He is not paralyzed, but his musculature
+			Without a Wheelchair, move at Speed -2 and must crawl (6 feet per turn)
+
+	Totals
+		Abilities: 40
+		Defenses: 16
+		Skills: 22
+		Advantages: 72
+		Point Total: 150/150/0
+		
+	Abilities {40}
+		STR 	-2
+		STA 	-2
+		AGL 	-2
+		DEX 	-2
+		FGT 	-2
+		INT 	10
+		AWA 	10
+		PRE 	10
+
+	Defenses {16}
+		Dodge 		10 - 2 + 3 = 11
+		Parry 		10 - 2 + 3 = 11
+		Tough 		+0 - 2 + 2 = +0
+		Will 			+0 + 10 + 5 = +15
+		Fort 			+0 - 2 + 2 = +0
+
+	Skills {22}
+		Technology 			 10 + 6 (3) = +16
+		Insight 				 10 + 4 (2) = +14
+		Persuasion 			 10 + 4 (2) = +14
+		Deception 			 10 + 4 (2) = +14
+		Expertise: Suit  10 + 4 (2) = +14
+		Perception 			 10 + 6 (3) = +16
+		Investigate 		 10 + 4 (2) = +14
+		Vehicles: Drive  -2 + 12 (6) = +10
+
+	Advantages {56}
+		Wealth 5
+		Title: Time Traveler 1
+		Move-by Action 1
+		Skill Mastery: Expertise Battle Suit Pilot 1
+		Contacts 1
+		Connected 1
+		Well Informed 1
+		Eidetic Memory 1
+		Equipment 44
+			Battle Suit 30
+			Camper 12
+			Gear 2
+		Sidekick 16
+			The Butler (80/80/0)
+			Abilities (30)
+				STR 	2
+				STA 	2
+				AGL 	2
+				DEX 	2
+				FGT 	2
+				INT 	2
+				AWA 	2
+				PRE   1
+			Defenses (15)
+				Dodge 	10 + 2 + 3 = 15
+				Parry 	10 + 2 + 3 = 15
+				Tough 	+0 + 2 + 3 = +5
+				Fort 		+0 + 2 + 3 = +5
+				Will 		+0 + 2 + 3 = +15
+			Skills (25)
+				Expertise
+					Butler 			2 + 8 (4) = +10
+				Treatment 		2 + 8 (4) = +10
+				Insight 			2 + 8 (4) = +10
+				Perception 		2 + 8 (4) = +10
+				Deception 		1 + 9 (4.5) = +10
+				Intimidate 		1 + 9 (4.5) = +10
+			Advantages (10)
+				Move By Action 1
+				Skill Mastery: Butlery 1
+				Teamwork 1
+				Taunt 1
+				Startle 1
+				Interpose 1
+				Languages 4
+					English
+					Spanish
+					Italian
+					French
+					Chinese
+					Japanese
+					Korean
+					German
+
+	-----
+
+	Battle Suit Equipment
+		Totals
+			Bypass: 76
+			Support: 9
+			HUD: 9
+			Augment: 12
+			Comms: 9
+			Armor: 15
+			Weapons: 20
+			Final: 150/150/0
+
+		Neurological Bypass [76]
+			Strength 10 (20)
+			Agility 5 (10)
+			Dexterity 5 (10)
+			Fighting 5 (10)
+			Stamina 5 (10)
+			Dodge 5
+			Parry 5
+			Leaping 3
+			Speed 3
+		Life Support [9]
+			Immunity: Environmental Cold 1
+			Immunity: Environmental Heat 1
+			Immunity: Environmental Radiation 1
+			Immunity: Environmental Pressure 1
+			Immunity: Environmental Vacuum 1
+			Immunity: Suffocation 2
+			Immunity: Poison 1
+			Immunity: Disease 1
+		HUD [9]
+			Distance Sense 1
+			Time Sense 1
+			Direction Sense 1
+			Lowlight Vision 1
+			Infravision 1
+			Evasion 1
+			Improved Aim 1
+			Assessment (Target Lock) 1
+				Required for a Target Lock
+				Insight vs 10 + Deception
+			Analytic Vision: Assessment Target 1
+		Combat Augment (12)
+			Ranged Combat: Energy Beam 5 + 5 (2.5) = +10
+			Close CombatL: Unarmed 5 + 5 (2.5) = +10
+			Interpose 1
+			Improved Initiative 1
+			Improved Defense 1
+			All-out Attack 1
+			Accurate Attack 1
+			Defensive Attack 1
+			Power Attack 1
+		Comms [9]
+			Subtle Network Comms 2 (9)
+		Armor [15]
+			Protection 5
+			Impervious Toughness 10
+		Energy Beam (20)
+			Ranged Energy Damage 10
+
+	-----
+
+	Camper 12/12
+		Large Ground Vehicle 1
+			Size: Large
+			Strength: 4
+			Toughness: 7
+			Defense: -2
+			Mass: 7 (3 tons)
+		Speed 5
+		Features 
+			Bedroom, Bathroom, Kitchen 1
+			Secure 1
+			Computer 1
+			Sensors 1
+			Arsenal 1
+			Arsenal Deployment System 1
+				Mechanical arms to deploy suit, weapons
+
+	-----
+
+	Gear 10
+		Wheelchair 2
+		Machine Repair Kit 4
+			Healing 4 (8)
+			Unreliable -4
+			5 Uses before needing to be replaced
+			Only Affects Objects 0
+		Treatment Kit 4
+			Healing 4 (8)
+			Unreliable -4
+			5 Uses before needing to be replaced
